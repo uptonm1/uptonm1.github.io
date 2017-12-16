@@ -1,0 +1,26 @@
+	
+body {
+	background-image: url("mass2.jpg");
+	/* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+	color:white;
+	text-align:center;
+	font-family:"Times New Roman",Times,serif;
+}
+p{
+	color:white;
+	font-family:"Times New Roman",Times,serif;
+}
+div#define{
+	width:500px;
+	color:white;
+	border: 5px solid DarkMagenta;
+	padding:5px;
+	margin-bottom:10px;
+}
